@@ -1,6 +1,9 @@
 ## Welcome to Adam's GitHub Pages
 
-This is an index of various things I've published on GitHub.
+This is an index of various things I've published on GitHub.  I have
+many more repositories on GitHub than the ones listed here; however
+most of them are forks of other people's projects which I've
+contributed to.
 
 ### "dot files" - configuration which lives in my ~ home directory
 
