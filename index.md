@@ -50,4 +50,5 @@ contributed to.
 ### Cloud and OpenStack
 
 * [The presentation I gave on compute node HA at the Austin summit in 2016](http://aspiers.github.io/openstack-summit-2016-austin-compute-ha/)
+* [The presentation I gave on compute node HA at the Boston summit in 2017](http://aspiers.github.io/openstack-summit-2017-boston-compute-ha/)
 * [https://github.com/aspiers/migrationpaths](https://github.com/aspiers/migrationpaths)
