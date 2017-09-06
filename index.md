@@ -52,4 +52,5 @@ contributed to.
 * [The presentation I gave on compute node HA at the Austin summit in 2016](http://aspiers.github.io/openstack-summit-2016-austin-compute-ha/)
 * [The presentation I gave on compute node HA at the Boston summit in 2017](http://aspiers.github.io/openstack-summit-2017-boston-compute-ha/)
 * [The presentation I gave on compute node HA at OpenStack Day Israel in 2017](https://aspiers.github.io/openstack-day-israel-2017-compute-ha/)
+* [The presentation I gave on OpenStack HA at Clusterlabs Summit 2017](https://aspiers.github.io/clusterlabs-summit-2017-openstack-ha/)
 * [https://github.com/aspiers/migrationpaths](https://github.com/aspiers/migrationpaths)
