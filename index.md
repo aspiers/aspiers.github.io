@@ -53,3 +53,4 @@ contributed to.
 * [The presentation I gave on compute node HA at the Boston summit in 2017](http://aspiers.github.io/openstack-summit-2017-boston-compute-ha/)
 * [The presentation I gave on compute node HA at OpenStack Day Israel in 2017](https://aspiers.github.io/openstack-day-israel-2017-compute-ha/)
 * [https://github.com/aspiers/migrationpaths](https://github.com/aspiers/migrationpaths)
+* [The presentation I gave on the Self-healing SIG at the London OpenStack Meetup, 12th March 2018](https://aspiers.github.io/openstack-london-meetup-march-2018-self-healing/)
