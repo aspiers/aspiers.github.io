@@ -37,7 +37,8 @@ contributed to.
 
 ### git
 
-* [`git-splice` and `git-transplant`](https://github.com/git/git/compare/master...aspiers:transplant)
+* [`git-splice`](https://github.com/git/git/compare/master...aspiers:splice)
+* [`git-transplant`](https://github.com/aspiers/git/compare/splice...transplant)
 * [https://github.com/aspiers/git-deps](https://github.com/aspiers/git-deps)
 * [https://github.com/aspiers/git-explode](https://github.com/aspiers/git-explode)
 * [The presentation I gave on git auto-magic at the London Git User Meetup in May 2018](https://aspiers.github.io/london-git-automagic-may-2018/)
