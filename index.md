@@ -59,3 +59,4 @@ contributed to.
 * [The presentation I gave on OpenStack HA at Clusterlabs Summit 2017](https://aspiers.github.io/clusterlabs-summit-2017-openstack-ha/)
 * [https://github.com/aspiers/migrationpaths](https://github.com/aspiers/migrationpaths)
 * [The presentation I gave on the Self-healing SIG at the London OpenStack Meetup, 12th March 2018](https://aspiers.github.io/openstack-meetup-london-march-2018-self-healing/)
+* [The presentation I gave on the Self-healing SIG at the Vancouver summit, 23rd May 2018](https://aspiers.github.io/openstack-summit-2018-vancouver-self-healing/)
