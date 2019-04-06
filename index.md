@@ -43,6 +43,7 @@ contributed to.
 * [https://github.com/aspiers/git-explode](https://github.com/aspiers/git-explode)
 * [The presentation I gave on git auto-magic at the London Git User Meetup in May 2018](https://aspiers.github.io/london-git-automagic-may-2018/)
 * [The presentation I gave on git auto-magic at the OpenStack PTG in Denver, Sept 2018](https://aspiers.github.io/denver-git-automagic-sept-2018/)
+* [The presentation I gave on git auto-magic at the openSUSE Summit in Nashville, Apr 2019](https://aspiers.github.io/nashville-git-automagic-april-2019/)
 
 ### music
 
